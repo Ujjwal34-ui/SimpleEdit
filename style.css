@@ -1,0 +1,28 @@
+body {
+    margin: 0;
+    font-family: Arial, sans-serif;
+    background-color: khaki;
+}
+
+.toolbar {
+    background: #333;
+    padding: 10px;
+}
+
+button {
+    padding: 8px 15px;
+    margin-right: 5px;
+    cursor: pointer;
+}
+
+#editor {
+    width: 100%;
+    height: calc(100vh - 60px);
+    border: none;
+    outline: none;
+    resize: none;
+    padding: 15px;
+    font-size: 16px;
+    box-sizing: border-box;
+    background-color: antiquewhite;
+}
