@@ -1,5 +1,5 @@
 # SimpleEdit:
-SimpleEdit is a lightweight and user-friendly text editor built using HTML, CSS, and JavaScript. It allows users to create, edit, open, and save text files directly in their web browser without requiring any installation or server.
+SimpleEdit is a lightweight and user-friendly simple text editor built using HTML, CSS, and JavaScript. It allows users to create, edit, open, and save text files directly in their web browser without requiring any installation or server.
 
 #Features:
 Create a new text document
