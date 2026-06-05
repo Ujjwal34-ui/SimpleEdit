@@ -53,5 +53,6 @@ Windows, Linux, or macOS
 No internet connection required after download
 
 Developed as a simple text editor project for learning web development concepts using HTML, CSS, and JavaScript.
+
 License
 This project is free to use, modify, and distribute for educational and personal purposes.
